@@ -1,4 +1,19 @@
-about-git
-=========
+# About Git
 
-Information about Git and GitHub
+## Git
+
+Distributed version control system.
+
+## GihHub
+
+A hub of Gits
+
+## Repository
+
+A project saved in git
+
+## Branches
+
+## Comits
+
+## Pull request
